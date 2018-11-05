@@ -2,4 +2,63 @@ button{
     display:block;
     width: 350px;
     margin:15px;
+    background-color: white;
+    color:Red;
+    font-style: normal;
+    border-radius: 25px;
 }
+
+body{
+    background-image: url("../images/RedCurtain.jpg");
+    
+    background-size: auto;
+}
+
+h1{
+    color:white;
+    font-style:italic;
+    font-size:30px;
+}
+
+#question{
+    color:white;
+    font-style:italic;
+    font-size:25px;
+}
+
+#show-number{
+    color:white;
+    font-style:italic;
+    font-size:30px;  
+}
+
+#questionCount{
+    color:white;
+    font-style:italic;
+    font-size:20px; 
+}
+
+#correctGuess{
+    color:white;
+    font-style:italic;
+    font-size:20px; 
+}
+
+#incorrectGuess{
+    color:white;
+    font-style:italic;
+    font-size:20px;  
+}
+
+#showAnswer{
+    color:white;
+    font-style:italic;
+    font-size:30px;
+}
+
+#gameStatus{
+    color:white;
+    font-style:italic;
+    font-size:30px;
+}
+
